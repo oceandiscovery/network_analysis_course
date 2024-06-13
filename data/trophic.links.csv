@@ -1,0 +1,1205 @@
+resource,consumer
+Acanthistius pictus,Fisheries
+Ahnfeltiopsis durvillei,Aplodactylus punctatus
+Alia unifasciata,Meyenaster gelatinosus
+Alia unifasciata,Pinguipes chilensis
+Alia unifasciata,Aplodactylus punctatus
+Alia unifasciata,Cheilodactylus variegatus
+Alia unifasciata,Girella laevifrons
+Alia unifasciata,Semicossyphus darwini
+Alia unifasciata,Heliaster helianthus
+Alia unifasciata,Taliepus dentatus
+Alia unifasciata,Taliepus marginatus
+Alia unifasciata,Patiria chilensis
+Alia unifasciata,Myxodes sp.
+Allopetrolisthes angulosus,Acanthistius pictus
+Allopetrolisthes angulosus,Anemonia alicemartinae
+Allopetrolisthes angulosus,Cheilodactylus variegatus
+Allopetrolisthes angulosus,Homalaspis plana
+Allopetrolisthes angulosus,Pinguipes chilensis
+Allopetrolisthes angulosus,Robsonella fontaniana
+Allopetrolisthes angulosus,Lutra felina
+Allopetrolisthes spinifrons,Anemonia alicemartinae
+Allopetrolisthes spinifrons,Cheilodactylus variegatus
+Allopetrolisthes spinifrons,Homalaspis plana
+Allopetrolisthes spinifrons,Pinguipes chilensis
+Allopetrolisthes spinifrons,Stichaster striatus
+Allopetrolisthes spinifrons,Gobiesox marmoratus
+Allopetrolisthes spinifrons,Auchenionchus microcirrhis
+Allopetrolisthes spinifrons,Scartichthys viridis
+Allopetrolisthes spinifrons,Sicyases sanguineus
+Alpheidae,Anemonia alicemartinae
+Alpheidae,Aplodactylus punctatus
+Alpheidae,Cheilodactylus variegatus
+Alpheidae,Pinguipes chilensis
+Alpheidae,Robsonella fontaniana
+Alpheidae,Heliaster helianthus
+Amphipoda_depositivore,Aplodactylus punctatus
+Amphipoda_depositivore,Calliclinus geniguttatus
+Amphipoda_depositivore,Cheilodactylus variegatus
+Amphipoda_depositivore,Chiton cumingsii
+Amphipoda_depositivore,Fissurella costata
+Amphipoda_depositivore,Fissurella cumingi
+Amphipoda_depositivore,Girella laevifrons
+Amphipoda_depositivore,Hemilutjanus macrophthalmos
+Amphipoda_depositivore,Hypsoblennius sordidus
+Amphipoda_depositivore,Labrisomus philippii
+Amphipoda_depositivore,Myxodes sp.
+Amphipoda_depositivore,Paralabrax humeralis
+Amphipoda_depositivore,Pinguipes chilensis
+Amphipoda_depositivore,Pisoides edwardsii
+Amphipoda_depositivore,Robsonella fontaniana
+Amphipoda_depositivore,Sicyases sanguineus
+Amphipoda_depositivore,Auchenionchus microcirrhis
+Amphipoda_depositivore,Helcogrammoides cunninghami
+Amphipoda_depositivore,Bovichtus chilensis
+Amphipoda_depositivore,Calyptraea trochiformis
+Amphipoda_depositivore,Concholepas concholepas
+Amphipoda_depositivore,Fissurella latimarginata
+Amphipoda_depositivore,Fissurella limbata
+Amphipoda_depositivore,Heliaster helianthus
+Amphipoda_depositivore,Stichaster striatus
+Amphipoda_depositivore,Romaleon polyodon
+Amphipoda_depositivore,Cancer plebejus
+Amphipoda_depositivore,Graus nigra
+Amphipoda_depositivore,Isacia conceptionis
+Amphipoda_depositivore,Gobiesox marmoratus
+Amphipoda_depositivore,Amphipoda_omnivore
+Amphipoda_detritivore,Aplodactylus punctatus
+Amphipoda_detritivore,Calliclinus geniguttatus
+Amphipoda_detritivore,Cheilodactylus variegatus
+Amphipoda_detritivore,Chiton cumingsii
+Amphipoda_detritivore,Fissurella costata
+Amphipoda_detritivore,Fissurella cumingi
+Amphipoda_detritivore,Girella laevifrons
+Amphipoda_detritivore,Hemilutjanus macrophthalmos
+Amphipoda_detritivore,Hypsoblennius sordidus
+Amphipoda_detritivore,Labrisomus philippii
+Amphipoda_detritivore,Myxodes sp.
+Amphipoda_detritivore,Paralabrax humeralis
+Amphipoda_detritivore,Pinguipes chilensis
+Amphipoda_detritivore,Pisoides edwardsii
+Amphipoda_detritivore,Robsonella fontaniana
+Amphipoda_detritivore,Sicyases sanguineus
+Amphipoda_detritivore,Auchenionchus microcirrhis
+Amphipoda_detritivore,Helcogrammoides cunninghami
+Amphipoda_detritivore,Bovichtus chilensis
+Amphipoda_detritivore,Calyptraea trochiformis
+Amphipoda_detritivore,Concholepas concholepas
+Amphipoda_detritivore,Fissurella latimarginata
+Amphipoda_detritivore,Fissurella limbata
+Amphipoda_detritivore,Heliaster helianthus
+Amphipoda_detritivore,Stichaster striatus
+Amphipoda_detritivore,Romaleon polyodon
+Amphipoda_detritivore,Cancer plebejus
+Amphipoda_detritivore,Fissurella crassa
+Amphipoda_detritivore,Graus nigra
+Amphipoda_detritivore,Paralichthys adspersus
+Amphipoda_detritivore,Isacia conceptionis
+Amphipoda_detritivore,Gobiesox marmoratus
+Amphipoda_herbivore,Aplodactylus punctatus
+Amphipoda_herbivore,Calliclinus geniguttatus
+Amphipoda_herbivore,Cheilodactylus variegatus
+Amphipoda_herbivore,Chiton cumingsii
+Amphipoda_herbivore,Girella laevifrons
+Amphipoda_herbivore,Hemilutjanus macrophthalmos
+Amphipoda_herbivore,Hypsoblennius sordidus
+Amphipoda_herbivore,Labrisomus philippii
+Amphipoda_herbivore,Myxodes sp.
+Amphipoda_herbivore,Paralabrax humeralis
+Amphipoda_herbivore,Pinguipes chilensis
+Amphipoda_herbivore,Pisoides edwardsii
+Amphipoda_herbivore,Robsonella fontaniana
+Amphipoda_herbivore,Sicyases sanguineus
+Amphipoda_herbivore,Auchenionchus microcirrhis
+Amphipoda_herbivore,Helcogrammoides cunninghami
+Amphipoda_herbivore,Bovichtus chilensis
+Amphipoda_herbivore,Calyptraea trochiformis
+Amphipoda_herbivore,Concholepas concholepas
+Amphipoda_herbivore,Fissurella latimarginata
+Amphipoda_herbivore,Fissurella limbata
+Amphipoda_herbivore,Heliaster helianthus
+Amphipoda_herbivore,Stichaster striatus
+Amphipoda_herbivore,Romaleon polyodon
+Amphipoda_herbivore,Cancer plebejus
+Amphipoda_herbivore,Fissurella crassa
+Amphipoda_herbivore,Graus nigra
+Amphipoda_herbivore,Scartichthys viridis
+Amphipoda_herbivore,Paralichthys adspersus
+Amphipoda_herbivore,Isacia conceptionis
+Amphipoda_herbivore,Gobiesox marmoratus
+Amphipoda_herbivore,Amphipoda_omnivore
+Amphipoda_omnivore,Aplodactylus punctatus
+Amphipoda_omnivore,Calliclinus geniguttatus
+Amphipoda_omnivore,Cheilodactylus variegatus
+Amphipoda_omnivore,Chiton cumingsii
+Amphipoda_omnivore,Fissurella costata
+Amphipoda_omnivore,Fissurella cumingi
+Amphipoda_omnivore,Girella laevifrons
+Amphipoda_omnivore,Hemilutjanus macrophthalmos
+Amphipoda_omnivore,Hypsoblennius sordidus
+Amphipoda_omnivore,Labrisomus philippii
+Amphipoda_omnivore,Myxodes sp.
+Amphipoda_omnivore,Paralabrax humeralis
+Amphipoda_omnivore,Pinguipes chilensis
+Amphipoda_omnivore,Pisoides edwardsii
+Amphipoda_omnivore,Robsonella fontaniana
+Amphipoda_omnivore,Sicyases sanguineus
+Amphipoda_omnivore,Auchenionchus microcirrhis
+Amphipoda_omnivore,Helcogrammoides cunninghami
+Amphipoda_omnivore,Bovichtus chilensis
+Amphipoda_omnivore,Calyptraea trochiformis
+Amphipoda_omnivore,Concholepas concholepas
+Amphipoda_omnivore,Fissurella latimarginata
+Amphipoda_omnivore,Fissurella limbata
+Amphipoda_omnivore,Heliaster helianthus
+Amphipoda_omnivore,Stichaster striatus
+Amphipoda_omnivore,Romaleon polyodon
+Amphipoda_omnivore,Cancer plebejus
+Amphipoda_omnivore,Fissurella crassa
+Amphipoda_omnivore,Graus nigra
+Amphipoda_omnivore,Scartichthys viridis
+Amphipoda_omnivore,Paralichthys adspersus
+Amphipoda_omnivore,Isacia conceptionis
+Amphipoda_omnivore,Gobiesox marmoratus
+Amphipoda_omnivore,Amphipoda_omnivore
+Amphipoda_suspensivore,Aplodactylus punctatus
+Amphipoda_suspensivore,Calliclinus geniguttatus
+Amphipoda_suspensivore,Cheilodactylus variegatus
+Amphipoda_suspensivore,Chiton cumingsii
+Amphipoda_suspensivore,Fissurella costata
+Amphipoda_suspensivore,Fissurella cumingi
+Amphipoda_suspensivore,Girella laevifrons
+Amphipoda_suspensivore,Hemilutjanus macrophthalmos
+Amphipoda_suspensivore,Hypsoblennius sordidus
+Amphipoda_suspensivore,Labrisomus philippii
+Amphipoda_suspensivore,Myxodes sp.
+Amphipoda_suspensivore,Paralabrax humeralis
+Amphipoda_suspensivore,Pinguipes chilensis
+Amphipoda_suspensivore,Pisoides edwardsii
+Amphipoda_suspensivore,Robsonella fontaniana
+Amphipoda_suspensivore,Sicyases sanguineus
+Amphipoda_suspensivore,Auchenionchus microcirrhis
+Amphipoda_suspensivore,Helcogrammoides cunninghami
+Amphipoda_suspensivore,Bovichtus chilensis
+Amphipoda_suspensivore,Calyptraea trochiformis
+Amphipoda_suspensivore,Concholepas concholepas
+Amphipoda_suspensivore,Fissurella latimarginata
+Amphipoda_suspensivore,Fissurella limbata
+Amphipoda_suspensivore,Heliaster helianthus
+Amphipoda_suspensivore,Stichaster striatus
+Amphipoda_suspensivore,Romaleon polyodon
+Amphipoda_suspensivore,Cancer plebejus
+Amphipoda_suspensivore,Fissurella crassa
+Amphipoda_suspensivore,Graus nigra
+Amphipoda_suspensivore,Paralichthys adspersus
+Amphipoda_suspensivore,Isacia conceptionis
+Amphipoda_suspensivore,Gobiesox marmoratus
+Amphipoda_suspensivore,Amphipoda_omnivore
+Anemonia alicemartinae,Alpheidae
+Anemonia alicemartinae,Gobiesox marmoratus
+Anemonia alicemartinae,Aplodactylus punctatus
+Anemonia alicemartinae,Pinguipes chilensis
+Anemonia alicemartinae,Hypsoblennius sordidus
+Antholoba achates,Girella laevifrons
+Anthothoe chilensis,Heliaster helianthus
+Anthothoe chilensis,Hypsoblennius sordidus
+Aplodactylus punctatus,Fisheries
+Aplodactylus punctatus,Genypterus chilensis
+Athyonidium chilensis,Heliaster helianthus
+Athyonidium chilensis,Fisheries
+Athyonidium chilensis,Graus nigra
+Auchenionchus microcirrhis,Graus nigra
+Aulacomya atra,Homalaspis plana
+Aulacomya atra,Lutra felina
+Aulacomya atra,Cheilodactylus variegatus
+Aulacomya atra,Heliaster helianthus
+Aulacomya atra,Fisheries
+Aulacomya atra,Gobiesox marmoratus
+Austromegabalanus psittacus,Homalaspis plana
+Austromegabalanus psittacus,Gobiesox marmoratus
+Austromegabalanus psittacus,Heliaster helianthus
+Austromegabalanus psittacus,Meyenaster gelatinosus
+Austromegabalanus psittacus,Fisheries
+Balanus spp.,Romaleon polyodon
+Balanus spp.,Stichaster striatus
+Balanus spp.,Fissurella cumingi
+Balanus spp.,Cheilodactylus variegatus
+Balanus spp.,Heliaster helianthus
+Balanus spp.,Homalaspis plana
+Balanus spp.,Meyenaster gelatinosus
+Balanus spp.,Crassilabrum crassilabrum
+Balanus spp.,Helcogrammoides cunninghami
+Balanus spp.,Paraxanthus barbiger
+Balanus spp.,Concholepas concholepas
+Balanus spp.,Chiton cumingsii
+Balanus spp.,Calyptraea trochiformis
+Balanus spp.,Fissurella costata
+Balanus spp.,Fissurella latimarginata
+Balanus spp.,Fissurella limbata
+Balanus spp.,Fissurella maxima
+Balanus spp.,Fissurella picta
+Balanus spp.,Loxechinus albus
+Balanus spp.,Taliepus dentatus
+Balanus spp.,Sicyases sanguineus
+Balanus spp.,Graus nigra
+Balanus spp.,Hypsoblennius sordidus
+Biofilm,Tetrapygus niger
+Biofilm,Siphonaria lessoni
+Biofilm,Fissurella cumingi
+Biofilm,Chiton cumingsii
+Biofilm,Polychaeta_herbivore
+Biofilm,Prisogaster niger
+Biofilm,Tegula tridentata
+Biofilm,Fissurella limbata
+Biofilm,Fissurella maxima
+Biofilm,Nematoda
+Biofilm,Nemertea
+Biofilm,Fissurella latimarginata
+Biofilm,Alia unifasciata
+Biofilm,Eatoniella sp.
+Biofilm,Eulithidium umbilicatum
+Biofilm,Tonicia chilensis
+Biofilm,Pagurus comptus
+Biofilm,Pagurus edwardsii
+Biofilm,Pagurus vilosus
+Biofilm,Gaudichaudia gaudichaudi
+Biofilm,Calyptraea trochiformis
+Biofilm,Concholepas concholepas
+Biofilm,Fissurella picta
+Biofilm,Loxechinus albus
+Biofilm,Taliepus dentatus
+Blidingia sp.,Turritella cingulata
+Blidingia sp.,Paraxanthus barbiger
+Bossiella chiloensis,Tetrapygus niger
+Bossiella chiloensis,Hemilutjanus macrophthalmos
+Bovichtus chilensis,Graus nigra
+Bovichtus chilensis,Genypterus chilensis
+Bovichtus chilensis,Lutra felina
+Brachidontes granulatus,Amphipoda_herbivore
+Brachidontes granulatus,Tetrapygus niger
+Brachidontes granulatus,Meyenaster gelatinosus
+Brachidontes granulatus,Phymactis clematis
+Brachidontes granulatus,Taliepus dentatus
+Brachidontes granulatus,Taliepus marginatus
+Brachidontes granulatus,Concholepas concholepas
+Brachidontes granulatus,Fissurella latimarginata
+Bryozoa,Heliaster helianthus
+Bryozoa,Stichaster striatus
+Bryozoa,Chiton cumingsii
+Bryozoa,Fissurella costata
+Bryozoa,Fissurella cumingi
+Bryozoa,Pisoides edwardsii
+Bryozoa,Prisogaster niger
+Bryozoa,Opisthobranchia
+Bryozoa,Concholepas concholepas
+Bryozoa,Fissurella latimarginata
+Bryozoa,Loxechinus albus
+Bryozoa,Calliclinus geniguttatus
+Bryozoa,Scartichthys viridis
+Bryozoa,Chromis crusma
+Calliclinus geniguttatus,Heliaster helianthus
+Calliclinus geniguttatus,Genypterus chilensis
+Calyptraea trochiformis,Stichaster striatus
+Calyptraea trochiformis,Lutra felina
+Calyptraea trochiformis,Cheilodactylus variegatus
+Calyptraea trochiformis,Heliaster helianthus
+Calyptraea trochiformis,Pinguipes chilensis
+Cancer plebejus,Meyenaster gelatinosus
+Cancer plebejus,Pinguipes chilensis
+Cancer plebejus,Robsonella fontaniana
+Cancer plebejus,Semicossyphus darwini
+Cancer plebejus,Fisheries
+Cancer plebejus,Sebastes oculatus
+Cancer plebejus,Paralichthys adspersus
+Cancer plebejus,Graus nigra
+Ceramium spp.,Metacarcinus edwardsii
+Ceramium spp.,Romaleon polyodon
+Ceramium spp.,Chiton cumingsii
+Ceramium spp.,Fissurella costata
+Ceramium spp.,Prisogaster niger
+Ceramium spp.,Fissurella latimarginata
+Ceramium spp.,Eulithidium umbilicatum
+Ceramium spp.,Scartichthys viridis
+Chaetomorpha spp.,Pilumnoides perlatus
+Chaetomorpha spp.,Tetrapygus niger
+Chaetomorpha spp.,Aplodactylus punctatus
+Chaetomorpha spp.,Sicyases sanguineus
+Chaetomorpha spp.,Chiton cumingsii
+Chaetomorpha spp.,Fissurella costata
+Chaetomorpha spp.,Prisogaster niger
+Chaetomorpha spp.,Scartichthys viridis
+Chaetomorpha spp.,Hypsoblennius sordidus
+Cheilodactylus variegatus,Fisheries
+Chiton cumingsii,Fissurella limbata
+Chiton cumingsii,Fissurella picta
+Chiton cumingsii,Cheilodactylus variegatus
+Chiton cumingsii,Fissurella maxima
+Chiton cumingsii,Heliaster helianthus
+Chiton cumingsii,Semicossyphus darwini
+Chiton cumingsii,Meyenaster gelatinosus
+Chiton cumingsii,Concholepas concholepas
+Chiton cumingsii,Graus nigra
+Chondria acrorhizophora,Romaleon polyodon
+Chondria acrorhizophora,Gobiesox marmoratus
+Chondria acrorhizophora,Aplodactylus punctatus
+Chondria acrorhizophora,Fissurella maxima
+Chondria acrorhizophora,Girella laevifrons
+Chondria acrorhizophora,Taliepus dentatus
+Chondria acrorhizophora,Taliepus marginatus
+Chondrus canaliculatus,Pilumnoides perlatus
+Choromytilus chorus,Heliaster helianthus
+Choromytilus chorus,Fissurella costata
+Choromytilus chorus,Homalaspis plana
+Choromytilus chorus,Phymactis clematis
+Choromytilus chorus,Fisheries
+Chromis crusma,Romaleon polyodon
+Chromis crusma,Metacarcinus edwardsii
+Chromis crusma,Pinguipes chilensis
+Cladophora spp.,Lutra felina
+Cladophora spp.,Amphipoda_herbivore
+Cladophora spp.,Tetrapygus niger
+Cladophora spp.,Chiton cumingsii
+Cladophora spp.,Fissurella costata
+Cladophora spp.,Fissurella cumingi
+Cladophora spp.,Tegula tridentata
+Cladophora spp.,Pilumnoides perlatus
+Cladophora spp.,Calyptraea trochiformis
+Cladophora spp.,Concholepas concholepas
+Cladophora spp.,Fissurella latimarginata
+Cladophora spp.,Fissurella picta
+Cladophora spp.,Loxechinus albus
+Cladophora spp.,Scartichthys viridis
+Cladophora spp.,Sicyases sanguineus
+Codium spp.,Siphonaria lessoni
+Codium spp.,Amphipoda_herbivore
+Colpomenia spp.,Chiton cumingsii
+Colpomenia spp.,Tetrapygus niger
+Colpomenia spp.,Sicyases sanguineus
+Colpomenia spp.,Scartichthys viridis
+Concholepas concholepas,Heliaster helianthus
+Concholepas concholepas,Fisheries
+Concholepas concholepas,Semicossyphus darwini
+Concholepas concholepas,Sicyases sanguineus
+Concholepas concholepas,Graus nigra
+Corallina spp.,Meyenaster gelatinosus
+Corallina spp.,Semicossyphus darwini
+Corallina spp.,Fissurella costata
+Corallina spp.,Isopoda_herbivore
+Corallina spp.,Aplodactylus punctatus
+Corallina spp.,Bryozoa
+Corallina spp.,Scartichthys viridis
+Corallina spp.,Sicyases sanguineus
+Crassilabrum crassilabrum,Tetrapygus niger
+Crassilabrum crassilabrum,Loxechinus albus
+Crassilabrum crassilabrum,Heliaster helianthus
+Crassilabrum crassilabrum,Meyenaster gelatinosus
+Crassilabrum crassilabrum,Semicossyphus darwini
+Crassilabrum crassilabrum,Taliepus dentatus
+Crassilabrum crassilabrum,Hypsoblennius sordidus
+Crassilabrum crassilabrum,Stichaster striatus
+Cycethra verrucosa,Meyenaster gelatinosus
+Demospongiae,Taliepus marginatus
+Demospongiae,Sebastes oculatus
+Demospongiae,Girella laevifrons
+Demospongiae,Heliaster helianthus
+Demospongiae,Opisthobranchia
+Demospongiae,Polychaeta_carnivore
+Demospongiae,Pisoides edwardsii
+Demospongiae,Odontaster penicillatus
+Demospongiae,Calyptraea trochiformis
+Demospongiae,Concholepas concholepas
+Demospongiae,Fissurella latimarginata
+Demospongiae,Fissurella limbata
+Demospongiae,Fissurella maxima
+Demospongiae,Fissurella picta
+Demospongiae,Polychaeta_omnivore
+Detritus,Fissurella costata
+Detritus,Taliepus dentatus
+Detritus,Tonicia chilensis
+Detritus,Allopetrolisthes spinifrons
+Detritus,Athyonidium chilensis
+Detritus,Liopetrolisthes mitra
+Detritus,Polychaeta_depositivore
+Detritus,Nematoda
+Detritus,Nemertea
+Detritus,Alia unifasciata
+Detritus,Patiria chilensis
+Detritus,Alpheidae
+Detritus,Nassarius gayii
+Detritus,Auchenionchus microcirrhis
+Detritus,Romaleon polyodon
+Detritus,Cancer plebejus
+Detritus,Ophiuroidea
+Detritus,Rhynchocinetes typus
+Detritus,Paraxanthus barbiger
+Detritus,Gaudichaudia gaudichaudi
+Detritus,Eptatretus polytrema
+Detritus,Vermetidae
+Detritus,Amphipoda_omnivore
+Detritus,Isopoda_omnivore
+Detritus,Amphipoda_detritivore
+Detritus,Tanaidacea
+Detritus,Austromegabalanus psittacus
+Detritus,Chromis crusma
+Detritus,Turritella cingulata
+Dictyota kunthii,Homalaspis plana
+Dictyota kunthii,Metacarcinus edwardsii
+Dictyota kunthii,Fissurella costata
+Dictyota kunthii,Tegula tridentata
+Dictyota kunthii,Aplodactylus punctatus
+Dictyota kunthii,Girella laevifrons
+Dictyota kunthii,Polychaeta_depositivore
+Dictyota kunthii,Scartichthys viridis
+Eatoniella sp.,Tetrapygus niger
+Eatoniella sp.,Calyptraea trochiformis
+Eatoniella sp.,Cheilodactylus variegatus
+Ectocarpus sp.,Heliaster helianthus
+Ectocarpus sp.,Paraxanthus barbiger
+Ectocarpus sp.,Chiton cumingsii
+Ectocarpus sp.,Fissurella cumingi
+Ectocarpus sp.,Prisogaster niger
+Ectocarpus sp.,Tetrapygus niger
+Ectocarpus sp.,Fissurella maxima
+Ectocarpus sp.,Scartichthys viridis
+Eptatretus polytrema,Eptatretus polytrema
+Eulithidium umbilicatum,Concholepas concholepas
+Eulithidium umbilicatum,Romaleon polyodon
+Eulithidium umbilicatum,Heliaster helianthus
+Fissurella costata,Concholepas concholepas
+Fissurella costata,Fissurella picta
+Fissurella costata,Semicossyphus darwini
+Fissurella costata,Graus nigra
+Fissurella costata,Fisheries
+Fissurella costata,Calliclinus geniguttatus
+Fissurella crassa,Loxechinus albus
+Fissurella crassa,Semicossyphus darwini
+Fissurella crassa,Graus nigra
+Fissurella crassa,Heliaster helianthus
+Fissurella crassa,Stichaster striatus
+Fissurella crassa,Fisheries
+Fissurella crassa,Calliclinus geniguttatus
+Fissurella cumingi,Heliaster helianthus
+Fissurella cumingi,Fisheries
+Fissurella cumingi,Calliclinus geniguttatus
+Fissurella latimarginata,Gobiesox marmoratus
+Fissurella latimarginata,Fisheries
+Fissurella latimarginata,Calliclinus geniguttatus
+Fissurella limbata,Heliaster helianthus
+Fissurella limbata,Semicossyphus darwini
+Fissurella limbata,Fisheries
+Fissurella limbata,Calliclinus geniguttatus
+Fissurella maxima,Heliaster helianthus
+Fissurella maxima,Stichaster striatus
+Fissurella maxima,Cheilodactylus variegatus
+Fissurella maxima,Graus nigra
+Fissurella maxima,Fisheries
+Fissurella maxima,Calliclinus geniguttatus
+Fissurella picta,Semicossyphus darwini
+Fissurella picta,Fisheries
+Fissurella picta,Calliclinus geniguttatus
+Gaudichaudia gaudichaudi,Gobiesox marmoratus
+Gaudichaudia gaudichaudi,Stichaster striatus
+Gaudichaudia gaudichaudi,Sebastes oculatus
+Gaudichaudia gaudichaudi,Calliclinus geniguttatus
+Gaudichaudia gaudichaudi,Paralichthys adspersus
+Gaudichaudia gaudichaudi,Sicyases sanguineus
+Gaudichaudia gaudichaudi,Graus nigra
+Gelidium spp.,Cheilodactylus variegatus
+Gelidium spp.,Sebastes oculatus
+Gelidium spp.,Aplodactylus punctatus
+Gelidium spp.,Chiton cumingsii
+Gelidium spp.,Fissurella costata
+Gelidium spp.,Fissurella cumingi
+Gelidium spp.,Girella laevifrons
+Gelidium spp.,Prisogaster niger
+Gelidium spp.,Tegula tridentata
+Gelidium spp.,Tetrapygus niger
+Gelidium spp.,Fissurella maxima
+Gelidium spp.,Isopoda_herbivore
+Gelidium spp.,Fissurella latimarginata
+Gelidium spp.,Pilumnoides perlatus
+Gelidium spp.,Fissurella limbata
+Gelidium spp.,Fissurella picta
+Gelidium spp.,Loxechinus albus
+Gelidium spp.,Amphipoda_herbivore
+Gelidium spp.,Amphipoda_omnivore
+Gelidium spp.,Polychaeta_herbivore
+Gelidium spp.,Scartichthys viridis
+Gelidium spp.,Hypsoblennius sordidus
+Genypterus chilensis,Fisheries
+Genypterus chilensis,Lutra felina
+Genypterus chilensis,Genypterus chilensis
+Girella laevifrons,Graus nigra
+Gobiesox marmoratus,Lutra felina
+Graus nigra,Fisheries
+Graus nigra,Lutra felina
+Halopteris spp.,Taliepus dentatus
+Halopteris spp.,Paraxanthus barbiger
+Halopteris spp.,Tetrapygus niger
+Halopteris spp.,Aplodactylus punctatus
+Halopteris spp.,Fissurella costata
+Halopteris spp.,Girella laevifrons
+Halopteris spp.,Amphipoda_herbivore
+Halopteris spp.,Polychaeta_herbivore
+Halopteris spp.,Scartichthys viridis
+Helcogrammoides cunninghami,Loxechinus albus
+Helcogrammoides cunninghami,Taliepus dentatus
+Helcogrammoides cunninghami,Acanthistius pictus
+Helcogrammoides cunninghami,Hemilutjanus macrophthalmos
+Helcogrammoides cunninghami,Auchenionchus microcirrhis
+Helcogrammoides cunninghami,Calliclinus geniguttatus
+Helcogrammoides cunninghami,Sebastes oculatus
+Helcogrammoides cunninghami,Pinguipes chilensis
+Helcogrammoides cunninghami,Cheilodactylus variegatus
+Heliaster helianthus,Auchenionchus microcirrhis
+Heliaster helianthus,Cheilodactylus variegatus
+Heliaster helianthus,Heliaster helianthus
+Hemilutjanus macrophthalmos,Fisheries
+Hemilutjanus macrophthalmos,Paralichthys adspersus
+Heterosiphonia subsecundata,Heliaster helianthus
+Heterosiphonia subsecundata,Meyenaster gelatinosus
+Heterosiphonia subsecundata,Scartichthys viridis
+Heterosiphonia subsecundata,Hypsoblennius sordidus
+Hildenbrandia lecannellieri,Aplodactylus punctatus
+Hildenbrandia lecannellieri,Pilumnoides perlatus
+Hildenbrandia lecannellieri,Chiton cumingsii
+Hildenbrandia lecannellieri,Fissurella costata
+Hildenbrandia lecannellieri,Prisogaster niger
+Hildenbrandia lecannellieri,Tegula tridentata
+Hildenbrandia lecannellieri,Tetrapygus niger
+Hildenbrandia lecannellieri,Pagurus edwardsii
+Hildenbrandia lecannellieri,Pagurus vilosus
+Hildenbrandia lecannellieri,Pagurus comptus
+Hildenbrandia lecannellieri,Calyptraea trochiformis
+Hildenbrandia lecannellieri,Concholepas concholepas
+Hildenbrandia lecannellieri,Fissurella latimarginata
+Hildenbrandia lecannellieri,Fissurella limbata
+Hildenbrandia lecannellieri,Fissurella maxima
+Hildenbrandia lecannellieri,Loxechinus albus
+Homalaspis plana,Taliepus dentatus
+Homalaspis plana,Siphonaria lessoni
+Homalaspis plana,Fisheries
+Homalaspis plana,Paralichthys adspersus
+Homalaspis plana,Graus nigra
+Hydrozoa,Meyenaster gelatinosus
+Hydrozoa,Robsonella fontaniana
+Hydrozoa,Aplodactylus punctatus
+Hydrozoa,Cheilodactylus variegatus
+Hydrozoa,Girella laevifrons
+Hydrozoa,Heliaster helianthus
+Hydrozoa,Opisthobranchia
+Hydrozoa,Pisoides edwardsii
+Hydrozoa,Polychaeta_carnivore
+Hydrozoa,Taliepus dentatus
+Hydrozoa,Taliepus marginatus
+Hydrozoa,Helcogrammoides cunninghami
+Hydrozoa,Concholepas concholepas
+Hydrozoa,Fissurella latimarginata
+Hydrozoa,Fissurella maxima
+Hydrozoa,Chromis crusma
+Hypsoblennius sordidus,Fissurella picta
+Hypsoblennius sordidus,Loxechinus albus
+Hypsoblennius sordidus,Acanthistius pictus
+Isacia conceptionis,Fisheries
+Isacia conceptionis,Paralichthys microps
+Isacia conceptionis,Graus nigra
+Isopoda_herbivore,Hemilutjanus macrophthalmos
+Isopoda_herbivore,Lutra felina
+Isopoda_herbivore,Aplodactylus punctatus
+Isopoda_herbivore,Calliclinus geniguttatus
+Isopoda_herbivore,Cheilodactylus variegatus
+Isopoda_herbivore,Chiton cumingsii
+Isopoda_herbivore,Girella laevifrons
+Isopoda_herbivore,Myxodes sp.
+Isopoda_herbivore,Paralichthys microps
+Isopoda_herbivore,Auchenionchus microcirrhis
+Isopoda_herbivore,Helcogrammoides cunninghami
+Isopoda_herbivore,Heliaster helianthus
+Isopoda_herbivore,Pinguipes chilensis
+Isopoda_herbivore,Graus nigra
+Isopoda_herbivore,Gobiesox marmoratus
+Isopoda_herbivore,Hypsoblennius sordidus
+Isopoda_herbivore,Isacia conceptionis
+Isopoda_herbivore,Isopoda_omnivore
+Isopoda_omnivore,Hemilutjanus macrophthalmos
+Isopoda_omnivore,Lutra felina
+Isopoda_omnivore,Aplodactylus punctatus
+Isopoda_omnivore,Calliclinus geniguttatus
+Isopoda_omnivore,Cheilodactylus variegatus
+Isopoda_omnivore,Chiton cumingsii
+Isopoda_omnivore,Girella laevifrons
+Isopoda_omnivore,Myxodes sp.
+Isopoda_omnivore,Paralichthys microps
+Isopoda_omnivore,Auchenionchus microcirrhis
+Isopoda_omnivore,Helcogrammoides cunninghami
+Isopoda_omnivore,Heliaster helianthus
+Isopoda_omnivore,Pinguipes chilensis
+Isopoda_omnivore,Graus nigra
+Isopoda_omnivore,Hypsoblennius sordidus
+Isopoda_omnivore,Isacia conceptionis
+Isopoda_omnivore,Isopoda_omnivore
+Laurencia sp.,Stichaster striatus
+Lessonia trabeculata,Gobiesox marmoratus
+Lessonia trabeculata,Pilumnoides perlatus
+Lessonia trabeculata,Anemonia alicemartinae
+Lessonia trabeculata,Aplodactylus punctatus
+Lessonia trabeculata,Girella laevifrons
+Lessonia trabeculata,Isopoda_herbivore
+Lessonia trabeculata,Loxechinus albus
+Lessonia trabeculata,Prisogaster niger
+Lessonia trabeculata,Taliepus dentatus
+Lessonia trabeculata,Taliepus marginatus
+Lessonia trabeculata,Tegula tridentata
+Lessonia trabeculata,Tetrapygus niger
+Lessonia trabeculata,Lottiidae
+Lessonia trabeculata,Fisheries
+Lessonia trabeculata,Polychaeta_herbivore
+Lessonia trabeculata,Amphipoda_herbivore
+Lessonia trabeculata,Isacia conceptionis
+Liopetrolisthes mitra,Tegula quadricostata
+Liopetrolisthes mitra,Eulithidium umbilicatum
+Liopetrolisthes mitra,Acanthistius pictus
+Liopetrolisthes mitra,Anemonia alicemartinae
+Liopetrolisthes mitra,Cheilodactylus variegatus
+Liopetrolisthes mitra,Genypterus chilensis
+Liopetrolisthes mitra,Homalaspis plana
+Liopetrolisthes mitra,Pinguipes chilensis
+Liopetrolisthes mitra,Loxechinus albus
+Liopetrolisthes mitra,Auchenionchus microcirrhis
+Lithophyllum sp.,Taliepus dentatus
+Lithophyllum sp.,Tetrapygus niger
+Lithophyllum sp.,Pagurus edwardsii
+Lithophyllum sp.,Pagurus vilosus
+Lithophyllum sp.,Pagurus comptus
+Lithophyllum sp.,Fissurella costata
+Lithophyllum sp.,Fissurella latimarginata
+Lithophyllum sp.,Loxechinus albus
+Lottiidae,Graus nigra
+Lottiidae,Taliepus dentatus
+Lottiidae,Tetrapygus niger
+Lottiidae,Heliaster helianthus
+Loxechinus albus,Cheilodactylus variegatus
+Loxechinus albus,Lutra felina
+Loxechinus albus,Anemonia alicemartinae
+Loxechinus albus,Antholoba achates
+Loxechinus albus,Girella laevifrons
+Loxechinus albus,Fisheries
+Macrocystis pyrifera,Heliaster helianthus
+Macrocystis pyrifera,Meyenaster gelatinosus
+Macrocystis pyrifera,Aplodactylus punctatus
+Macrocystis pyrifera,Girella laevifrons
+Macrocystis pyrifera,Isopoda_herbivore
+Macrocystis pyrifera,Loxechinus albus
+Macrocystis pyrifera,Polychaeta_herbivore
+Macrocystis pyrifera,Prisogaster niger
+Macrocystis pyrifera,Taliepus dentatus
+Macrocystis pyrifera,Taliepus marginatus
+Macrocystis pyrifera,Fisheries
+Macrocystis pyrifera,Isacia conceptionis
+Macrocystis pyrifera,Amphipoda_herbivore
+Metacarcinus edwardsii,Tegula tridentata
+Metacarcinus edwardsii,Tetrapygus niger
+Metacarcinus edwardsii,Robsonella fontaniana
+Metacarcinus edwardsii,Fisheries
+Metacarcinus edwardsii,Metacarcinus edwardsii
+Meyenaster gelatinosus,Sebastes oculatus
+Meyenaster gelatinosus,Metacarcinus edwardsii
+Meyenaster gelatinosus,Graus nigra
+Meyenaster gelatinosus,Heliaster helianthus
+Meyenaster gelatinosus,Semicossyphus darwini
+Meyenaster gelatinosus,Meyenaster gelatinosus
+Mytilus edulis platensis,Paraxanthus barbiger
+Mytilus edulis platensis,Romaleon polyodon
+Mytilus edulis platensis,Crassilabrum crassilabrum
+Mytilus edulis platensis,Concholepas concholepas
+Mytilus edulis platensis,Cheilodactylus variegatus
+Mytilus edulis platensis,Pinguipes chilensis
+Mytilus edulis platensis,Meyenaster gelatinosus
+Mytilus edulis platensis,Heliaster helianthus
+Myxodes sp.,Homalaspis plana
+Myxodes sp.,Metacarcinus edwardsii
+Myxodes sp.,Lutra felina
+Myxodes sp.,Hemilutjanus macrophthalmos
+Myxodes sp.,Myxodes sp.
+Nassarius gayii,Paralabrax humeralis
+Nassarius gayii,Paralichthys microps
+Nassarius gayii,Meyenaster gelatinosus
+Nassarius gayii,Acanthistius pictus
+Nassarius gayii,Aplodactylus punctatus
+Nassarius gayii,Cheilodactylus variegatus
+Nassarius gayii,Girella laevifrons
+Nassarius gayii,Heliaster helianthus
+Nassarius gayii,Labrisomus philippii
+Nassarius gayii,Semicossyphus darwini
+Nassarius gayii,Taliepus dentatus
+Nassarius gayii,Taliepus marginatus
+Nassarius gayii,Homalaspis plana
+Nematoda,Paraxanthus barbiger
+Nemertea,Gobiesox marmoratus
+Nemertea,Fissurella picta
+Nemertea,Aplodactylus punctatus
+Nemertea,Cheilodactylus variegatus
+Nemertea,Girella laevifrons
+Nemertea,Heliaster helianthus
+Nemertea,Paralabrax humeralis
+Nemertea,Semicossyphus darwini
+Nemertea,Pinguipes chilensis
+Nemertea,Sicyases sanguineus
+Odontaster penicillatus,Pinguipes chilensis
+Odontaster penicillatus,Semicossyphus darwini
+Ophiuroidea,Graus nigra
+Ophiuroidea,Heliaster helianthus
+Ophiuroidea,Helcogrammoides cunninghami
+Ophiuroidea,Semicossyphus darwini
+Opisthobranchia,Cheilodactylus variegatus
+Opisthobranchia,Pinguipes chilensis
+Oulactis concinnata,Cheilodactylus variegatus
+Pagurus comptus,Helcogrammoides cunninghami
+Pagurus comptus,Heliaster helianthus
+Pagurus comptus,Acanthistius pictus
+Pagurus comptus,Cheilodactylus variegatus
+Pagurus comptus,Pinguipes chilensis
+Pagurus comptus,Myxodes sp.
+Pagurus comptus,Graus nigra
+Pagurus edwardsii,Girella laevifrons
+Pagurus edwardsii,Semicossyphus darwini
+Pagurus edwardsii,Cheilodactylus variegatus
+Pagurus edwardsii,Genypterus chilensis
+Pagurus edwardsii,Sebastes oculatus
+Pagurus edwardsii,Pinguipes chilensis
+Pagurus edwardsii,Myxodes sp.
+Pagurus edwardsii,Graus nigra
+Pagurus vilosus,Heliaster helianthus
+Pagurus vilosus,Romaleon polyodon
+Pagurus vilosus,Acanthistius pictus
+Pagurus vilosus,Cheilodactylus variegatus
+Pagurus vilosus,Pinguipes chilensis
+Pagurus vilosus,Myxodes sp.
+Pagurus vilosus,Graus nigra
+Paralabrax humeralis,Fisheries
+Paralichthys adspersus,Fisheries
+Paralichthys adspersus,Paralichthys adspersus
+Paralichthys adspersus,Lutra felina
+Paralichthys adspersus,Paralabrax humeralis
+Paralichthys microps,Fisheries
+Paralichthys microps,Lutra felina
+Paraxanthus barbiger,Hemilutjanus macrophthalmos
+Paraxanthus barbiger,Pinguipes chilensis
+Paraxanthus barbiger,Acanthistius pictus
+Paraxanthus barbiger,Aplodactylus punctatus
+Paraxanthus barbiger,Cheilodactylus variegatus
+Paraxanthus barbiger,Graus nigra
+Paraxanthus barbiger,Labrisomus philippii
+Patiria chilensis,Pinguipes chilensis
+Patiria chilensis,Sebastes oculatus
+Patiria chilensis,Graus nigra
+Petrolisthes desmarestii,Heliaster helianthus
+Petrolisthes desmarestii,Meyenaster gelatinosus
+Petrolisthes desmarestii,Anemonia alicemartinae
+Petrolisthes desmarestii,Girella laevifrons
+Petrolisthes desmarestii,Homalaspis plana
+Petrolisthes laevigatus,Robsonella fontaniana
+Petrolisthes laevigatus,Sebastes oculatus
+Petrolisthes laevigatus,Myxodes sp.
+Petrolisthes laevigatus,Calliclinus geniguttatus
+Petrolisthes laevigatus,Bovichtus chilensis
+Petrolisthes laevigatus,Sicyases sanguineus
+Petrolisthes laevigatus,Gobiesox marmoratus
+Petrolisthes tuberculatus,Heliaster helianthus
+Petrolisthes tuberculatus,Gobiesox marmoratus
+Petrolisthes tuberculatus,Anemonia alicemartinae
+Petrolisthes tuberculatus,Cheilodactylus variegatus
+Petrolisthes tuberculatus,Homalaspis plana
+Petrolisthes tuberculatus,Bovichtus chilensis
+Petrolisthes tuberculatus,Sicyases sanguineus
+Petrolisthes tuberculatus,Graus nigra
+Petrolisthes tuberculosus,Robsonella fontaniana
+Petrolisthes tuberculosus,Romaleon polyodon
+Petrolisthes tuberculosus,Anemonia alicemartinae
+Petrolisthes tuberculosus,Cheilodactylus variegatus
+Petrolisthes tuberculosus,Homalaspis plana
+Petrolisthes tuberculosus,Pinguipes chilensis
+Petrolisthes tuberculosus,Bovichtus chilensis
+Petrolisthes tuberculosus,Sicyases sanguineus
+Petrolisthes tuberculosus,Graus nigra
+Petrolisthes tuberculosus,Gobiesox marmoratus
+Phymactis clematis,Lutra felina
+Phymactis clematis,Gobiesox marmoratus
+Pilumnoides perlatus,Anemonia alicemartinae
+Pilumnoides perlatus,Heliaster helianthus
+Pilumnoides perlatus,Acanthistius pictus
+Pilumnoides perlatus,Robsonella fontaniana
+Pilumnoides perlatus,Sebastes oculatus
+Pilumnoides perlatus,Auchenionchus microcirrhis
+Pilumnoides perlatus,Bovichtus chilensis
+Pilumnoides perlatus,Sicyases sanguineus
+Pilumnoides perlatus,Graus nigra
+Pinguipes chilensis,Fisheries
+Pinguipes chilensis,Genypterus chilensis
+Pinguipes chilensis,Lutra felina
+Pisoides edwardsii,Lutra felina
+Pisoides edwardsii,Romaleon polyodon
+Pisoides edwardsii,Cheilodactylus variegatus
+Pisoides edwardsii,Hemilutjanus macrophthalmos
+Pisoides edwardsii,Paralabrax humeralis
+Pisoides edwardsii,Sebastes oculatus
+Pisoides edwardsii,Auchenionchus microcirrhis
+Pisoides edwardsii,Calliclinus geniguttatus
+Pisoides edwardsii,Sicyases sanguineus
+Plankton,Amphipoda_depositivore
+Plankton,Pinguipes chilensis
+Plankton,Robsonella fontaniana
+Plankton,Allopetrolisthes angulosus
+Plankton,Allopetrolisthes spinifrons
+Plankton,Anemonia alicemartinae
+Plankton,Anthothoe chilensis
+Plankton,Austromegabalanus psittacus
+Plankton,Balanus spp.
+Plankton,Brachidontes granulatus
+Plankton,Choromytilus chorus
+Plankton,Chromis crusma
+Plankton,Demospongiae
+Plankton,Hydrozoa
+Plankton,Isopoda_herbivore
+Plankton,Mytilus edulis platensis
+Plankton,Oulactis concinnata
+Plankton,Petrolisthes desmarestii
+Plankton,Petrolisthes tuberculatus
+Plankton,Petrolisthes tuberculosus
+Plankton,Polychaeta_depositivore
+Plankton,Pyura chilensis
+Plankton,Turritella cingulata
+Plankton,Helcogrammoides cunninghami
+Plankton,Ophiuroidea
+Plankton,Rhynchocinetes typus
+Plankton,Calyptraea trochiformis
+Plankton,Heliaster helianthus
+Plankton,Stichaster striatus
+Plankton,Amphipoda_omnivore
+Plankton,Amphipoda_suspensivore
+Plankton,Isopoda_omnivore
+Plankton,Tanaidacea
+Plankton,Phymactis clematis
+Plankton,Semimytilus algosus
+Plocamium cartilagineum,Semimytilus algosus
+Plocamium cartilagineum,Amphipoda_herbivore
+Plocamium cartilagineum,Amphipoda_omnivore
+Plocamium cartilagineum,Scartichthys viridis
+Polychaeta_carnivore,Aplodactylus punctatus
+Polychaeta_carnivore,Fissurella costata
+Polychaeta_carnivore,Stichaster striatus
+Polychaeta_carnivore,Allopetrolisthes angulosus
+Polychaeta_carnivore,Anemonia alicemartinae
+Polychaeta_carnivore,Calliclinus geniguttatus
+Polychaeta_carnivore,Fissurella cumingi
+Polychaeta_carnivore,Polychaeta_carnivore
+Polychaeta_carnivore,Petrolisthes tuberculatus
+Polychaeta_carnivore,Petrolisthes tuberculosus
+Polychaeta_carnivore,Pisoides edwardsii
+Polychaeta_carnivore,Prisogaster niger
+Polychaeta_carnivore,Cheilodactylus variegatus
+Polychaeta_carnivore,Pinguipes chilensis
+Polychaeta_carnivore,Semicossyphus darwini
+Polychaeta_carnivore,Nassarius gayii
+Polychaeta_carnivore,Metacarcinus edwardsii
+Polychaeta_carnivore,Helcogrammoides cunninghami
+Polychaeta_carnivore,Chiton cumingsii
+Polychaeta_carnivore,Concholepas concholepas
+Polychaeta_carnivore,Fissurella latimarginata
+Polychaeta_carnivore,Heliaster helianthus
+Polychaeta_carnivore,Petrolisthes laevigatus
+Polychaeta_carnivore,Myxodes sp.
+Polychaeta_carnivore,Scartichthys viridis
+Polychaeta_carnivore,Sicyases sanguineus
+Polychaeta_carnivore,Graus nigra
+Polychaeta_carnivore,Gobiesox marmoratus
+Polychaeta_carnivore,Hypsoblennius sordidus
+Polychaeta_carnivore,Isacia conceptionis
+Polychaeta_depositivore,Aplodactylus punctatus
+Polychaeta_depositivore,Fissurella costata
+Polychaeta_depositivore,Stichaster striatus
+Polychaeta_depositivore,Allopetrolisthes angulosus
+Polychaeta_depositivore,Anemonia alicemartinae
+Polychaeta_depositivore,Calliclinus geniguttatus
+Polychaeta_depositivore,Fissurella cumingi
+Polychaeta_depositivore,Polychaeta_carnivore
+Polychaeta_depositivore,Petrolisthes tuberculatus
+Polychaeta_depositivore,Petrolisthes tuberculosus
+Polychaeta_depositivore,Pisoides edwardsii
+Polychaeta_depositivore,Prisogaster niger
+Polychaeta_depositivore,Cheilodactylus variegatus
+Polychaeta_depositivore,Pinguipes chilensis
+Polychaeta_depositivore,Semicossyphus darwini
+Polychaeta_depositivore,Nassarius gayii
+Polychaeta_depositivore,Metacarcinus edwardsii
+Polychaeta_depositivore,Helcogrammoides cunninghami
+Polychaeta_depositivore,Chiton cumingsii
+Polychaeta_depositivore,Concholepas concholepas
+Polychaeta_depositivore,Fissurella latimarginata
+Polychaeta_depositivore,Amphipoda_herbivore
+Polychaeta_depositivore,Aulacomya atra
+Polychaeta_depositivore,Petrolisthes laevigatus
+Polychaeta_herbivore,Aplodactylus punctatus
+Polychaeta_herbivore,Fissurella costata
+Polychaeta_herbivore,Stichaster striatus
+Polychaeta_herbivore,Allopetrolisthes angulosus
+Polychaeta_herbivore,Anemonia alicemartinae
+Polychaeta_herbivore,Calliclinus geniguttatus
+Polychaeta_herbivore,Fissurella cumingi
+Polychaeta_herbivore,Polychaeta_carnivore
+Polychaeta_herbivore,Petrolisthes tuberculatus
+Polychaeta_herbivore,Petrolisthes tuberculosus
+Polychaeta_herbivore,Pisoides edwardsii
+Polychaeta_herbivore,Prisogaster niger
+Polychaeta_herbivore,Cheilodactylus variegatus
+Polychaeta_herbivore,Pinguipes chilensis
+Polychaeta_herbivore,Semicossyphus darwini
+Polychaeta_herbivore,Nassarius gayii
+Polychaeta_herbivore,Metacarcinus edwardsii
+Polychaeta_herbivore,Helcogrammoides cunninghami
+Polychaeta_herbivore,Chiton cumingsii
+Polychaeta_herbivore,Concholepas concholepas
+Polychaeta_herbivore,Fissurella latimarginata
+Polychaeta_herbivore,Petrolisthes laevigatus
+Polychaeta_omnivore,Aplodactylus punctatus
+Polychaeta_omnivore,Fissurella costata
+Polychaeta_omnivore,Stichaster striatus
+Polychaeta_omnivore,Allopetrolisthes angulosus
+Polychaeta_omnivore,Anemonia alicemartinae
+Polychaeta_omnivore,Calliclinus geniguttatus
+Polychaeta_omnivore,Fissurella cumingi
+Polychaeta_omnivore,Polychaeta_carnivore
+Polychaeta_omnivore,Petrolisthes tuberculatus
+Polychaeta_omnivore,Petrolisthes tuberculosus
+Polychaeta_omnivore,Pisoides edwardsii
+Polychaeta_omnivore,Prisogaster niger
+Polychaeta_omnivore,Cheilodactylus variegatus
+Polychaeta_omnivore,Pinguipes chilensis
+Polychaeta_omnivore,Semicossyphus darwini
+Polychaeta_omnivore,Nassarius gayii
+Polychaeta_omnivore,Metacarcinus edwardsii
+Polychaeta_omnivore,Helcogrammoides cunninghami
+Polychaeta_omnivore,Chiton cumingsii
+Polychaeta_omnivore,Concholepas concholepas
+Polychaeta_omnivore,Fissurella latimarginata
+Polychaeta_omnivore,Fissurella picta
+Polychaeta_omnivore,Petrolisthes laevigatus
+Polychaeta_omnivore,Myxodes sp.
+Polychaeta_omnivore,Scartichthys viridis
+Polychaeta_omnivore,Isacia conceptionis
+Polychaeta_omnivore,Sicyases sanguineus
+Polychaeta_omnivore,Gobiesox marmoratus
+Polychaeta_omnivore,Hypsoblennius sordidus
+Polysiphonia spp.,Aplodactylus punctatus
+Polysiphonia spp.,Fissurella costata
+Polysiphonia spp.,Fissurella cumingi
+Polysiphonia spp.,Tegula tridentata
+Polysiphonia spp.,Chiton cumingsii
+Polysiphonia spp.,Isopoda_herbivore
+Polysiphonia spp.,Tetrapygus niger
+Polysiphonia spp.,Fissurella latimarginata
+Polysiphonia spp.,Pilumnoides perlatus
+Polysiphonia spp.,Calyptraea trochiformis
+Polysiphonia spp.,Fissurella maxima
+Polysiphonia spp.,Fissurella picta
+Polysiphonia spp.,Amphipoda_herbivore
+Polysiphonia spp.,Amphipoda_omnivore
+Polysiphonia spp.,Scartichthys viridis
+Polysiphonia spp.,Hypsoblennius sordidus
+Prisogaster niger,Loxechinus albus
+Prisogaster niger,Heliaster helianthus
+Prisogaster niger,Cheilodactylus variegatus
+Prisogaster niger,Fissurella limbata
+Prisogaster niger,Fissurella maxima
+Prisogaster niger,Paralabrax humeralis
+Prisogaster niger,Pinguipes chilensis
+Prisogaster niger,Auchenionchus microcirrhis
+Pterosiphonia sp.,Fissurella latimarginata
+Pterosiphonia sp.,Stichaster striatus
+Pterosiphonia sp.,Chiton cumingsii
+Pterosiphonia sp.,Tegula tridentata
+Pyura chilensis,Fissurella costata
+Pyura chilensis,Loxechinus albus
+Pyura chilensis,Cheilodactylus variegatus
+Pyura chilensis,Concholepas concholepas
+Pyura chilensis,Lutra felina
+Pyura chilensis,Meyenaster gelatinosus
+Pyura chilensis,Patiria chilensis
+Pyura chilensis,Cycethra verrucosa
+Pyura chilensis,Rhynchocinetes typus
+Pyura chilensis,Fisheries
+Pyura chilensis,Calliclinus geniguttatus
+Pyura chilensis,Pinguipes chilensis
+Pyura chilensis,Hypsoblennius sordidus
+Ralfsia spp.,Schroederichthys chilensis
+Ralfsia spp.,Stichaster striatus
+Ralfsia spp.,Chiton cumingsii
+Ralfsia spp.,Scartichthys viridis
+Rhodymenia skottsbergii,Calyptraea trochiformis
+Rhodymenia skottsbergii,Amphipoda_herbivore
+Rhodymenia skottsbergii,Aplodactylus punctatus
+Rhodymenia skottsbergii,Tetrapygus niger
+Rhodymenia skottsbergii,Paralabrax humeralis
+Rhodymenia skottsbergii,Scartichthys viridis
+Rhynchocinetes typus,Eulithidium umbilicatum
+Rhynchocinetes typus,Loxechinus albus
+Rhynchocinetes typus,Anemonia alicemartinae
+Rhynchocinetes typus,Cheilodactylus variegatus
+Rhynchocinetes typus,Hemilutjanus macrophthalmos
+Rhynchocinetes typus,Paralabrax humeralis
+Rhynchocinetes typus,Pinguipes chilensis
+Rhynchocinetes typus,Robsonella fontaniana
+Rhynchocinetes typus,Genypterus chilensis
+Rhynchocinetes typus,Paralichthys adspersus
+Rhynchocinetes typus,Graus nigra
+Robsonella fontaniana,Auchenionchus microcirrhis
+Robsonella fontaniana,Schroederichthys chilensis
+Robsonella fontaniana,Paralichthys microps
+Robsonella fontaniana,Pinguipes chilensis
+Robsonella fontaniana,Robsonella fontaniana
+Romaleon polyodon,Robsonella fontaniana
+Romaleon polyodon,Genypterus chilensis
+Romaleon polyodon,Paralabrax humeralis
+Romaleon polyodon,Sebastes oculatus
+Romaleon polyodon,Fisheries
+Romaleon polyodon,Calliclinus geniguttatus
+Romaleon polyodon,Paralichthys adspersus
+Romaleon polyodon,Sicyases sanguineus
+Romaleon polyodon,Graus nigra
+Romaleon polyodon,Romaleon polyodon
+Scartichthys viridis,Romaleon polyodon
+Scartichthys viridis,Lutra felina
+Scartichthys viridis,Paralichthys microps
+Scartichthys viridis,Graus nigra
+Scartichthys viridis,Paralichthys adspersus
+Schottera nicaeensis,Amphipoda_herbivore
+Schottera nicaeensis,Fissurella costata
+Schottera nicaeensis,Fissurella cumingi
+Schottera nicaeensis,Tetrapygus niger
+Schottera nicaeensis,Fissurella latimarginata
+Schottera nicaeensis,Fissurella limbata
+Schottera nicaeensis,Scartichthys viridis
+Schroederichthys chilensis,Genypterus chilensis
+Sebastes oculatus,Fisheries
+Sebastes oculatus,Genypterus chilensis
+Sebastes oculatus,Paralichthys microps
+Sebastes oculatus,Paralichthys adspersus
+Sebastes oculatus,Pinguipes chilensis
+Semicossyphus darwini,Fisheries
+Semimytilus algosus,Loxechinus albus
+Semimytilus algosus,Heliaster helianthus
+Semimytilus algosus,Sicyases sanguineus
+Semimytilus algosus,Aplodactylus punctatus
+Semimytilus algosus,Cheilodactylus variegatus
+Semimytilus algosus,Chiton cumingsii
+Semimytilus algosus,Graus nigra
+Semimytilus algosus,Pinguipes chilensis
+Semimytilus algosus,Pisoides edwardsii
+Semimytilus algosus,Prisogaster niger
+Semimytilus algosus,Semicossyphus darwini
+Semimytilus algosus,Metacarcinus edwardsii
+Semimytilus algosus,Concholepas concholepas
+Semimytilus algosus,Fissurella latimarginata
+Semimytilus algosus,Taliepus dentatus
+Semimytilus algosus,Crassilabrum crassilabrum
+Semimytilus algosus,Scartichthys viridis
+Sicyases sanguineus,Stichaster striatus
+Sicyases sanguineus,Homalaspis plana
+Sicyases sanguineus,Fisheries
+Sicyases sanguineus,Genypterus chilensis
+Sicyases sanguineus,Lutra felina
+Sicyases sanguineus,Gobiesox marmoratus
+Siphonaria lessoni,Lutra felina
+Siphonaria lessoni,Gobiesox marmoratus
+Siphonaria lessoni,Cheilodactylus variegatus
+Siphonaria lessoni,Girella laevifrons
+Siphonaria lessoni,Heliaster helianthus
+Siphonaria lessoni,Pinguipes chilensis
+Stichaster striatus,Labrisomus philippii
+Stichaster striatus,Pinguipes chilensis
+Stichaster striatus,Graus nigra
+Taliepus dentatus,Heliaster helianthus
+Taliepus dentatus,Meyenaster gelatinosus
+Taliepus dentatus,Cheilodactylus variegatus
+Taliepus dentatus,Graus nigra
+Taliepus dentatus,Labrisomus philippii
+Taliepus dentatus,Oulactis concinnata
+Taliepus dentatus,Auchenionchus microcirrhis
+Taliepus dentatus,Bovichtus chilensis
+Taliepus marginatus,Paralabrax humeralis
+Taliepus marginatus,Semicossyphus darwini
+Taliepus marginatus,Cheilodactylus variegatus
+Taliepus marginatus,Graus nigra
+Taliepus marginatus,Labrisomus philippii
+Taliepus marginatus,Meyenaster gelatinosus
+Taliepus marginatus,Oulactis concinnata
+Taliepus marginatus,Auchenionchus microcirrhis
+Taliepus marginatus,Bovichtus chilensis
+Tanaidacea,Aplodactylus punctatus
+Tanaidacea,Cheilodactylus variegatus
+Tanaidacea,Girella laevifrons
+Tanaidacea,Myxodes sp.
+Tanaidacea,Helcogrammoides cunninghami
+Tanaidacea,Pinguipes chilensis
+Tanaidacea,Calliclinus geniguttatus
+Tanaidacea,Scartichthys viridis
+Tanaidacea,Graus nigra
+Tegula quadricostata,Homalaspis plana
+Tegula quadricostata,Gobiesox marmoratus
+Tegula quadricostata,Heliaster helianthus
+Tegula quadricostata,Semicossyphus darwini
+Tegula quadricostata,Graus nigra
+Tegula tridentata,Paralabrax humeralis
+Tegula tridentata,Semicossyphus darwini
+Tegula tridentata,Meyenaster gelatinosus
+Tegula tridentata,Heliaster helianthus
+Tegula tridentata,Graus nigra
+Tetrapygus niger,Paraxanthus barbiger
+Tetrapygus niger,Crassilabrum crassilabrum
+Tetrapygus niger,Anemonia alicemartinae
+Tetrapygus niger,Antholoba achates
+Tetrapygus niger,Cheilodactylus variegatus
+Tetrapygus niger,Heliaster helianthus
+Tetrapygus niger,Labrisomus philippii
+Tetrapygus niger,Graus nigra
+Tetrapygus niger,Semicossyphus darwini
+Tetrapygus niger,Isacia conceptionis
+Tetrapygus niger,Pinguipes chilensis
+Tonicia chilensis,Meyenaster gelatinosus
+Tonicia chilensis,Semicossyphus darwini
+Tonicia chilensis,Cheilodactylus variegatus
+Tonicia chilensis,Heliaster helianthus
+Tonicia chilensis,Pinguipes chilensis
+Tonicia chilensis,Sicyases sanguineus
+Tonicia chilensis,Graus nigra
+Turritella cingulata,Pinguipes chilensis
+Turritella cingulata,Cheilodactylus variegatus
+Turritella cingulata,Heliaster helianthus
+Turritella cingulata,Meyenaster gelatinosus
+Turritella cingulata,Semicossyphus darwini
+Ulva spp.,Semicossyphus darwini
+Ulva spp.,Romaleon polyodon
+Ulva spp.,Tetrapygus niger
+Ulva spp.,Aplodactylus punctatus
+Ulva spp.,Chiton cumingsii
+Ulva spp.,Fissurella costata
+Ulva spp.,Fissurella cumingi
+Ulva spp.,Fissurella limbata
+Ulva spp.,Fissurella maxima
+Ulva spp.,Fissurella picta
+Ulva spp.,Phymactis clematis
+Ulva spp.,Prisogaster niger
+Ulva spp.,Sicyases sanguineus
+Ulva spp.,Tegula tridentata
+Ulva spp.,Fissurella latimarginata
+Ulva spp.,Alia unifasciata
+Ulva spp.,Pilumnoides perlatus
+Ulva spp.,Calyptraea trochiformis
+Ulva spp.,Loxechinus albus
+Ulva spp.,Amphipoda_herbivore
+Ulva spp.,Scartichthys viridis
+Ulva spp.,Isacia conceptionis
+Ulva spp.,Hypsoblennius sordidus
+Vermetidae,Siphonaria lessoni
+Vermetidae,Heliaster helianthus
